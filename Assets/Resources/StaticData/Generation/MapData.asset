@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd7ce017f17202343a0a472e91cde7c0, type: 3}
+  m_Name: MapData
+  m_EditorClassIdentifier: 
+  _chunkGenerationData: {fileID: 11400000, guid: ca0107529b7b7894ca83c20fc4044238, type: 2}
+  _landscapeGenerationData: {fileID: 11400000, guid: 3160df3232c587a4fb01066aa3a9aafc, type: 2}
+  _foliageGenerationData: {fileID: 11400000, guid: bf5d404952847ae4b91d2e25c9ea50c7, type: 2}

@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c301379b6f1e7364f848b21dae471905, type: 3}
+  m_Name: LandscapeData
+  m_EditorClassIdentifier: 
+  _noiseGenerationData: {fileID: 11400000, guid: 7e05b99610ef5c04096fbac1bd508e96, type: 2}
+  _heightLimit:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 20
+      value: 4.9999847
+      inSlope: 0.64607704
+      outSlope: 0.64607704
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.06626777
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  _landscapeLevel: 0
+  _landscapeHeightMultiplier: 3

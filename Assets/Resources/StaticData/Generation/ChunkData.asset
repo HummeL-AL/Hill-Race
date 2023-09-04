@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6278e5ff10eb4f42b246247039d3230, type: 3}
+  m_Name: ChunkData
+  m_EditorClassIdentifier: 
+  _chunkLength: 25
+  _chunkSections: 64
+  _chunkDepth: 10
+  _depthIsStatic: 0
